@@ -44,3 +44,6 @@ config.py
 
 # Массивы с данными
 data/
+
+# база данных
+telegram_notes.db
